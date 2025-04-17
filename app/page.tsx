@@ -8,39 +8,13 @@ import {
   Github,
   Linkedin,
   Mail,
-  Book,
-  Code,
-  Shield,
-  Smartphone,
-  Globe,
-  Users,
-  Check,
-  Zap,
-  Briefcase,
-  Cpu,
   ComputerIcon,
-  Clock10Icon,
-  WatchIcon,
-  CpuIcon,
-  SettingsIcon,
-  Settings2Icon,
   TimerIcon,
-  PhoneIcon,
-  TextIcon,
-  AppWindowIcon,
-  MessageCircleDashedIcon,
   MessageCircleIcon,
-  LoaderIcon,
-  Loader2Icon,
-  LoaderCircleIcon,
-  BluetoothOffIcon,
-  PiIcon,
-  Icon,
-  Code2Icon,
   FileCode2Icon,
 } from "lucide-react";
 import Image from "next/image";
-import { image } from "framer-motion/client";
+// import { image } from "framer-motion/client";
 
 
 export default function Portfolio() {
@@ -378,7 +352,7 @@ export default function Portfolio() {
                 About Me
               </h2>
               <p className="text-lg text-[#8892b0] mb-4">
-                Hi, I'm Adonis Zepeda.
+                Hi, I&apos;m Adonis Zepeda.
               </p>
               <div className="grid md:grid-cols-2 gap-12 items-center">
                 <div>
@@ -704,7 +678,7 @@ export default function Portfolio() {
                 Get in Touch
               </h2>
               <p className="mb-8 max-w-2xl">
-                I am always open to connecting with fellow developers, potential employers, and anyone passionate about technology. Whether you have a project idea, a job opportunity, or simply want to discuss tech trends, I would love to hear from you. Feel free to reach out to me via email or connect with me on LinkedIn. Let's collaborate and build something great together!
+                I am always open to connecting with fellow developers, potential employers, and anyone passionate about technology. Whether you have a project idea, a job opportunity, or simply want to discuss tech trends, I would love to hear from you. Feel free to reach out to me via email or connect with me on LinkedIn. Let&apos;s collaborate and build something great together!
               </p>
               <a
                 href="mailto:AdonisJZepeda@gmail.com"
